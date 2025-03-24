@@ -8,3 +8,7 @@ The USB communication configuration is based on the `appsettings.json` file.
 - [.NET 9](https://dotnet.microsoft.com/download/dotnet/9.0)
 - [LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet)
 - SunSensor device connected via USB
+
+## Author
+
+SEEK Academy, Wiktor Szczeszek
